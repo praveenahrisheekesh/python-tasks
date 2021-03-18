@@ -16,3 +16,7 @@
 * Task 12 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/LamdaFunctions.ipynb">Lambda,Map,Filter,Reduce,Zip,Enumerate</a>
 * Task 13 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/Execption%20Handling.ipynb">Exception Handling</a>
 * Task 14 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/File%20Handling.ipynb">File Handling</a>
+* Task 15 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/Classes%20and%20Objects.ipynb">Classes and object</a>
+* Task 16 -NumPy.ipynb
+* Task 17 -Pandas
+* Task 18 -MatPlotLib
