@@ -1,5 +1,5 @@
 # python-tasks
-Practice Repo for python tasks
+**Practice Repo for python tasks**
 
 
 * Task 1 - <a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/String%20Task.ipynb">String Task</a>
@@ -14,3 +14,5 @@ Practice Repo for python tasks
 * Task 10 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/Loops.ipynb">Loops</a>
 * Task 11 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/Functions.ipynb">Functions</a>
 * Task 12 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/LamdaFunctions.ipynb">Lambda,Map,Filter,Reduce,Zip,Enumerate</a>
+* Task 13 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/Execption%20Handling.ipynb">Exception Handling</a>
+* Task 14 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/File%20Handling.ipynb">File Handling</a>
