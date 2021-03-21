@@ -1,7 +1,5 @@
 # python-tasks
 **Practice Repo for python tasks**
-
-
 * Task 1 - <a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/String%20Task.ipynb">String Task</a>
 * Task 2 - <a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/String%20Task.ipynb">String Task</a>
 * Task 3 - <a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/ListTask.ipynb">ListTask</a>
@@ -20,3 +18,7 @@
 * Task 16 -<a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/NumPy.ipynb"> NumPy.ipynb</a>
 * Task 17 -Pandas
 * Task 18 -MatPlotLib
+
+
+# Test Tasks
+* <a href="https://github.com/praveenahrisheekesh/python-tasks/blob/main/Mock%20Test.ipynb">Test1</a>
